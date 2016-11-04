@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  HEVC NALU analysis(to CTU level)
 date:   2014-11-17 13:31:01 +0800
 categories: jekyll
 tag: jekyll
@@ -13,7 +13,7 @@ tag: jekyll
 First POST build by Jekyll.
 
 
-诫子书
+NALU
 ------------------------
 
 ![诫子书]({{ '/styles/images/jiezishu.jpg' | prepend: site.baseurl  }})
